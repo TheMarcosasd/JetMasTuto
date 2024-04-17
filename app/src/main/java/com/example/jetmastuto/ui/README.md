@@ -15,3 +15,4 @@ Insertamos dentro de una fila los dos elementos Text
 Cambiamos el tamaño del primer Text (Happy Birthday)
 Nos desamos del cambio anterior y cambiamos la funicon Row por Column
 Llamamos a la funcion GT desde el onCreate 
+Alineamos el texto al centro
