@@ -16,3 +16,4 @@ Cambiamos el tamaño del primer Text (Happy Birthday)
 Nos desamos del cambio anterior y cambiamos la funicon Row por Column
 Llamamos a la funcion GT desde el onCreate 
 Alineamos el texto al centro
+Añadimos modificadores para hacer el texto mas boniuto
