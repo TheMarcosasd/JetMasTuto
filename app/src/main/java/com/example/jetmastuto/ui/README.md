@@ -9,3 +9,5 @@ como parametro
 Cambiamos el tamaño del mensaje
 Cambiamos la altura de la linea
 Añadimos parametro from a GText
+Agregamos otro elemento Text y acemos que acepte un argumento de Text establecido de from
+Cambiamos tamaño del segundo parametro (from) y actulizamos la llamada de la funcion

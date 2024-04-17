@@ -35,6 +35,10 @@ fun GreetingText(message: String, from: String, modifier: Modifier = Modifier){
         fontSize = 100.sp,
         lineHeight = 116.sp,
     )
+    Text(
+        text = from,
+        fontSize = 36.sp
+    )
 }
 
 
@@ -42,6 +46,6 @@ fun GreetingText(message: String, from: String, modifier: Modifier = Modifier){
 @Composable
 fun BirthdayCardPreview() {
     JetMasTutoTheme {
-        GreetingText(message = "Happy Bithday Sam!!")
+        GreetingText(message = "Happy Bithday Sam!!", from ="From Emma")
     }
 }
