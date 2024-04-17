@@ -39,5 +39,6 @@ fun GreetingText(message: String,modifier: Modifier = Modifier){
 @Composable
 fun BirthdayCardPreview() {
     JetMasTutoTheme {
+        GreetingText(message = "Happy Bithday Sam!!")
     }
 }
