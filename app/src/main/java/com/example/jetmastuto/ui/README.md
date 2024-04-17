@@ -6,3 +6,4 @@ Creamos la funcion GreetingText y le añadimos un parametro modifier
 Añadimos parametro String message y creamos un elemento Text que muestra el parametro
 Llamamos a la funcion GreetingText dentro de la funcion Birthday y le mandamos un texto
 como parametro
+Cambiamos el tamaño del mensaje
