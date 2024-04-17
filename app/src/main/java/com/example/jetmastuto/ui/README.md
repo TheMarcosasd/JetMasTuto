@@ -7,3 +7,4 @@ Añadimos parametro String message y creamos un elemento Text que muestra el par
 Llamamos a la funcion GreetingText dentro de la funcion Birthday y le mandamos un texto
 como parametro
 Cambiamos el tamaño del mensaje
+Cambiamos la altura de la linea
