@@ -27,7 +27,10 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+@Composable
+fun GreetingText(modifier: Modifier = Modifier){
 
+}
 
 
 @Preview(showBackground = true)
