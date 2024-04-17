@@ -8,3 +8,4 @@ Llamamos a la funcion GreetingText dentro de la funcion Birthday y le mandamos u
 como parametro
 Cambiamos el tamaño del mensaje
 Cambiamos la altura de la linea
+Añadimos parametro from a GText
