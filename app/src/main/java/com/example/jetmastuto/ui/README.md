@@ -14,3 +14,4 @@ Cambiamos tamaño del segundo parametro (from) y actulizamos la llamada de la fu
 Insertamos dentro de una fila los dos elementos Text
 Cambiamos el tamaño del primer Text (Happy Birthday)
 Nos desamos del cambio anterior y cambiamos la funicon Row por Column
+Llamamos a la funcion GT desde el onCreate 
